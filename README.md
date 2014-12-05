@@ -50,6 +50,7 @@
 - [Building progressively enhanced websites using bulletproof Backbone & CSS transforms](http://azumbrunnen.me/blog/building-progressively-enhanced-websites-with-bulletproof-backbone/) by Adrian Zumbrunnen
 - [Decoupling Backbone Apps From WebSockets](http://lostechies.com/derickbailey/2012/04/19/decoupling-backbone-apps-from-websockets/) by Derick Bailey
 - [Backbone.js And JavaScript Garbage Collection](http://lostechies.com/derickbailey/2012/03/19/backbone-js-and-javascript-garbage-collection/) by Derick Bailey
+- [Getting familiar with Backbone.js](https://blog.safaribooksonline.com/2013/11/16/getting-familiar-with-backbone-js/) by Pasha Craydon
 
 
 ## Books
