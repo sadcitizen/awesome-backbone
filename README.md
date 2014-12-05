@@ -48,6 +48,8 @@
 - [Backbone.View Patterns - How & Why Use Subviews](http://orizens.com/wp/topics/backbone-view-patterns-how-why-to-use-subviews/) by Oren Fahri
 - [Backbone.View Patterns - The "Render" Method](http://orizens.com/wp/topics/backbone-view-patterns-the-render-method/) by Oren Fahri
 - [Building progressively enhanced websites using bulletproof Backbone & CSS transforms](http://azumbrunnen.me/blog/building-progressively-enhanced-websites-with-bulletproof-backbone/) by Adrian Zumbrunnen
+- [Decoupling Backbone Apps From WebSockets](http://lostechies.com/derickbailey/2012/04/19/decoupling-backbone-apps-from-websockets/) by Derick Bailey
+- [Backbone.js And JavaScript Garbage Collection](http://lostechies.com/derickbailey/2012/03/19/backbone-js-and-javascript-garbage-collection/) by Derick Bailey
 
 
 ## Books
