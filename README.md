@@ -44,6 +44,10 @@
 - [Backbone.js for large scale applications - UI architecture](http://orizens.com/wp/topics/backbone-js-for-large-scale-applications-ui-architecture/) by Oren Farhi
 - [Decorating A Backbone.Model With Features, For A UI Component](http://derickbailey.com/2014/09/09/decorating-a-backbone-model-with-features-for-a-ui-component/) by Derick Bailey
 - [Backbone.fwd: Forward Events From One Backbone Object, Through Another](http://derickbailey.com/2014/05/13/backbone-fwd-forward-events-from-one-backbone-object-through-another/) by Derick Bailey
+- [Backbone.View Patterns - Rendering A Collection](http://orizens.com/wp/topics/backbone-view-patterns-rendering-a-collection/) by Oren Fahri
+- [Backbone.View Patterns - How & Why Use Subviews](http://orizens.com/wp/topics/backbone-view-patterns-how-why-to-use-subviews/) by Oren Fahri
+- [Backbone.View Patterns - The "Render" Method](http://orizens.com/wp/topics/backbone-view-patterns-the-render-method/) by Oren Fahri
+
 
 ## Books
 
@@ -56,9 +60,13 @@
 - [backboneConf 2013](https://www.youtube.com/playlist?list=PLlgxAbM67lYLJm9_Ub3gStXa2vjb51aUX) - Youtube playlist
 - [Introduction to Backbone.js](https://www.youtube.com/playlist?list=PLCE344BDBD8FAC282) - Youtube playlist by Joseph Zimmerman
 - [Backbone App Walkthrough](https://www.youtube.com/playlist?list=PL0C57F698BD4766B1) - Youtube playlist by Joseph Zimmerman
+- [Backbone.js Tutorial](http://www.youtube.com/playlist?list=PLTjRvDozrdlwn9IsHWEs9IQv3HQob4bH3) - Youtube playlist by Mosh Hamedani
 - [Backbone-Require-Boilerplate Explained](http://gregfranko.com/blog/backbone-require-boilerplate-explained/) by Greg Franko
 - [BackboneRails Screencasts](http://www.backbonerails.com/) - Learn to Build Web Apps Using Backbone + Rails
 - [Backbone.js with Derick Bailey](https://www.youtube.com/watch?v=VERQEr-bVTs) by Derick Bailey
+- [JavaScript Application Architecture with Backbone.js](http://www.youtube.com/watch?v=PGgZ7qRvoGE) by Mathias Schäfer
+- [An Introduction to Backbone.js](http://www.youtube.com/watch?v=PcTVQyrWSSs) by Sid Maestre
+- [Put Some Backbone.js in your Apps](http://www.youtube.com/watch?v=jM8KE_Fa6JI) by Sid Maestre
 
 ## Examples and boilerplates
 
@@ -72,3 +80,4 @@
 
 - [Anatomy of Backbone.js](https://www.codeschool.com/courses/anatomy-of-backbone-js)
 - [Advanced Backbone Patterns and Techniques](http://code.tutsplus.com/courses/advanced-backbone-patterns-and-techniques)
+- [Structuring Your Web Apps via Backbone.js](https://github.com/hegdeashwin/Backbone)
