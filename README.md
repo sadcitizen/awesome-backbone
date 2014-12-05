@@ -32,15 +32,22 @@
 - [Rendering A Filtered Backbone.Collection](http://tech.pro/tutorial/1519/rendering-a-filtered-backbonecollection) by Derick Bailey
 - [Backbone Model Unit Testing with Jasmine](http://blog.katworksgames.com/2013/03/30/bb_model_test_jasmine/) by Ken Tabor
 - [Backbone.js and Socket.io](http://developer.teradata.com/blog/jasonstrimpel/2011/11/backbone-js-and-socket-io) by Jason Strimpel
+- [Presenter First in Backbone.js](http://spin.atomicobject.com/2012/01/03/presenter-first-in-backbone-js/) by Shawn Andersom
 
 ## Books
 
 - [Developing Backbone.js Applications](http://addyosmani.github.io/backbone-fundamentals/) by Addy Osmani
+- [Building Backbone Plugins](https://leanpub.com/building-backbone-plugins) by Derick Bailey and Jerome Gravel-Niquet
 - [Backbone.js Testing](http://backbone-testing.com/) by Ryan Roemer
 
 ## Videos
 
+- [backboneConf 2013](https://www.youtube.com/playlist?list=PLlgxAbM67lYLJm9_Ub3gStXa2vjb51aUX) - Youtube playlist
+- [Introduction to Backbone.js](https://www.youtube.com/playlist?list=PLCE344BDBD8FAC282) - Youtube playlist by Joseph Zimmerman
+- [Backbone App Walkthrough](https://www.youtube.com/playlist?list=PL0C57F698BD4766B1) - Youtube playlist by Joseph Zimmerman
 - [Backbone-Require-Boilerplate Explained](http://gregfranko.com/blog/backbone-require-boilerplate-explained/) by Greg Franko
+- [BackboneRails screencasts](http://www.backbonerails.com/) - Learn to Build Web Apps Using Backbone + Rails
+- [Backbone.js with Derick Bailey](https://www.youtube.com/watch?v=VERQEr-bVTs) by Derick Bailey
 
 ## Examples and boilerplates
 
