@@ -60,6 +60,7 @@
 - [Instant Backbone.js Application Development](http://www.amazon.com/dp/1782165665) by Thomas Hunter II
 - [Beginning Backbone.js](http://www.amazon.com/dp/1430263342/) by James Sugrue
 - [Backbone.js Blueprints](http://www.amazon.com/dp/1783286997/) by Andrew Burgess
+- [Recipes with Backbone](http://recipeswithbackbone.com/) by Nick Gauthier and Chris Strom
 
 ## Videos
 
@@ -87,4 +88,9 @@
 
 - [Anatomy of Backbone.js](https://www.codeschool.com/courses/anatomy-of-backbone-js)
 - [Advanced Backbone Patterns and Techniques](http://code.tutsplus.com/courses/advanced-backbone-patterns-and-techniques)
+- [Connected to the Backbone](http://code.tutsplus.com/courses/connected-to-the-backbone)
 - [Structuring Your Web Apps via Backbone.js](https://github.com/hegdeashwin/Backbone)
+- [Backbone.JS In-Depth and Introduction to Testing with Mocha and Sinon](https://frontendmasters.com/courses/backbone-js-in-depth-testing-mocha-sinon/)
+- [Up and Running with Backbone.js](http://www.lynda.com/Backbonejs-tutorials/Up-Running-Backbonejs/163089-2.html)
+- [Application Building Patterns with Backbone.js](http://www.pluralsight.com/courses/playing-with-backbonejs)
+- [Backbone.js Fundamentals](http://www.pluralsight.com/courses/backbone-fundamentals)
