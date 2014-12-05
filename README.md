@@ -20,6 +20,7 @@
 - [Intro to Backbone.js](http://tech.pro/tutorial/1118/intro-to-backbonejs) by Matt Keas
 - [Getting Started with Backbone](http://www.korenlc.com/backbone-js-tutorial-getting-started-with-backbone/) by Koren Leslie Cohen 
 - [A Complete Guide for Learning Backbone.js](http://www.codebeerstartups.com/2012/12/a-complete-guide-for-learning-backbone-js/) by Mohit Jain
+- [Hello Backbone.js](http://jasongiedymin.github.io/hello-backbonejs/) by Artur Adib 
 - Backbone.js Wine Cellar Tutorial by Christophe Coenraets - [Part 1](http://coenraets.org/blog/2011/12/backbone-js-wine-cellar-tutorial-part-1-getting-started/), [Part 2](http://coenraets.org/blog/2011/12/backbone-js-wine-cellar-tutorial-part-2-crud/) and [Part 3](http://coenraets.org/blog/2011/12/backbone-js-wine-cellar-tutorial-part-3-deep-linking-and-application-states/)
 - [Backbone patterns](http://ricostacruz.com/backbone-patterns/) by Rico Sta. Cruz
 - [Complex Single Page Application Architecture with Backbone.js](http://blog.soom.la/2013/10/complex-single-page-application.html) by Gur Dotan
@@ -33,6 +34,13 @@
 - [Backbone Model Unit Testing with Jasmine](http://blog.katworksgames.com/2013/03/30/bb_model_test_jasmine/) by Ken Tabor
 - [Backbone.js and Socket.io](http://developer.teradata.com/blog/jasonstrimpel/2011/11/backbone-js-and-socket-io) by Jason Strimpel
 - [Presenter First in Backbone.js](http://spin.atomicobject.com/2012/01/03/presenter-first-in-backbone-js/) by Shawn Andersom
+- [Websockets for Backbone](http://www.artandlogic.com/blog/2014/06/websockets-for-backbone/) by Christopher Keefer
+- Fun with CoffeeScript and Backbone.js - [Part 1](http://www.artandlogic.com/blog/2012/06/fun-with-coffeescript-and-backbone-js-part-1/), [Part 2](http://www.artandlogic.com/blog/2012/06/fun-with-coffeescript-and-backbone-js-part-2/) and [Part 3](http://www.artandlogic.com/blog/2012/06/fun-with-coffeescript-and-backbone-js-part-3/)
+- [Components with Backbone.js and Marionette.js](http://blog.jeremyfairbank.com/javascript/components-with-backbone-js-and-marionette-js/) by Jeremy Fairbank
+- [Boilerplate web app using Backbone.js, Express.js, Node.js, MongoDB](http://kroltech.com/2013/12/boilerplate-web-app-using-backbone-js-expressjs-node-js-mongodb/) by jkat98
+- [Backbone.js Tips And Patterns](http://www.smashingmagazine.com/2013/08/09/backbone-js-tips-patterns/) by Philip Whisenhunt
+- [Leveraging Deferreds in Backbone.js](http://quickleft.com/blog/leveraging-deferreds-in-backbonejs) by Sam Breed
+- [Backbone.js for large scale applications - UI architecture](http://orizens.com/wp/topics/backbone-js-for-large-scale-applications-ui-architecture/) by Oren Farhi
 
 ## Books
 
@@ -46,7 +54,7 @@
 - [Introduction to Backbone.js](https://www.youtube.com/playlist?list=PLCE344BDBD8FAC282) - Youtube playlist by Joseph Zimmerman
 - [Backbone App Walkthrough](https://www.youtube.com/playlist?list=PL0C57F698BD4766B1) - Youtube playlist by Joseph Zimmerman
 - [Backbone-Require-Boilerplate Explained](http://gregfranko.com/blog/backbone-require-boilerplate-explained/) by Greg Franko
-- [BackboneRails screencasts](http://www.backbonerails.com/) - Learn to Build Web Apps Using Backbone + Rails
+- [BackboneRails Screencasts](http://www.backbonerails.com/) - Learn to Build Web Apps Using Backbone + Rails
 - [Backbone.js with Derick Bailey](https://www.youtube.com/watch?v=VERQEr-bVTs) by Derick Bailey
 
 ## Examples and boilerplates
@@ -59,3 +67,4 @@
 ## Courses
 
 - [Anatomy of Backbone.js](https://www.codeschool.com/courses/anatomy-of-backbone-js)
+- [Advanced Backbone Patterns and Techniques](http://code.tutsplus.com/courses/advanced-backbone-patterns-and-techniques)
