@@ -47,6 +47,7 @@
 - [Backbone.View Patterns - Rendering A Collection](http://orizens.com/wp/topics/backbone-view-patterns-rendering-a-collection/) by Oren Fahri
 - [Backbone.View Patterns - How & Why Use Subviews](http://orizens.com/wp/topics/backbone-view-patterns-how-why-to-use-subviews/) by Oren Fahri
 - [Backbone.View Patterns - The "Render" Method](http://orizens.com/wp/topics/backbone-view-patterns-the-render-method/) by Oren Fahri
+- [Building progressively enhanced websites using bulletproof Backbone & CSS transforms](http://azumbrunnen.me/blog/building-progressively-enhanced-websites-with-bulletproof-backbone/) by Adrian Zumbrunnen
 
 
 ## Books
@@ -54,6 +55,11 @@
 - [Developing Backbone.js Applications](http://addyosmani.github.io/backbone-fundamentals/) by Addy Osmani
 - [Building Backbone Plugins](https://leanpub.com/building-backbone-plugins) by Derick Bailey and Jerome Gravel-Niquet
 - [Backbone.js Testing](http://backbone-testing.com/) by Ryan Roemer
+- [Backbone.js Patterns and Best Practices](http://www.amazon.com/dp/1783283572) by Swarnendu De 
+- [Backbone.js Cookbook](http://www.amazon.com/dp/1782162720/) by Vadim Mirgorod
+- [Instant Backbone.js Application Development](http://www.amazon.com/dp/1782165665) by Thomas Hunter II
+- [Beginning Backbone.js](http://www.amazon.com/dp/1430263342/) by James Sugrue
+- [Backbone.js Blueprints](http://www.amazon.com/dp/1783286997/) by Andrew Burgess
 
 ## Videos
 
@@ -67,6 +73,7 @@
 - [JavaScript Application Architecture with Backbone.js](http://www.youtube.com/watch?v=PGgZ7qRvoGE) by Mathias Schäfer
 - [An Introduction to Backbone.js](http://www.youtube.com/watch?v=PcTVQyrWSSs) by Sid Maestre
 - [Put Some Backbone.js in your Apps](http://www.youtube.com/watch?v=jM8KE_Fa6JI) by Sid Maestre
+- [Evolving Your JavaScript with Backbone.js](http://wordpress.tv/2013/09/05/k-adam-white-evolving-your-javascript-with-backbone-js/) by K Adam White
 
 ## Examples and boilerplates
 
