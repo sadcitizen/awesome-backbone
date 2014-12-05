@@ -11,6 +11,7 @@
 - [BackboneConf](http://backboneconf.com/) - Conference about building applications on the web, with a focus on the Backbone.js library
 - [StackOverflow](http://stackoverflow.com/questions/tagged/backbone.js) - Tagged questions
 - [Backbone Weekly](http://backboneweekly.com/) - The latest Backbone.js news, tips & code delivered directly to your inbox
+- [Yeoman generator for Backbone.js](https://github.com/yeoman/generator-backbone) 
 
 ## Tutorials and articles
 
@@ -41,6 +42,8 @@
 - [Backbone.js Tips And Patterns](http://www.smashingmagazine.com/2013/08/09/backbone-js-tips-patterns/) by Philip Whisenhunt
 - [Leveraging Deferreds in Backbone.js](http://quickleft.com/blog/leveraging-deferreds-in-backbonejs) by Sam Breed
 - [Backbone.js for large scale applications - UI architecture](http://orizens.com/wp/topics/backbone-js-for-large-scale-applications-ui-architecture/) by Oren Farhi
+- [Decorating A Backbone.Model With Features, For A UI Component](http://derickbailey.com/2014/09/09/decorating-a-backbone-model-with-features-for-a-ui-component/) by Derick Bailey
+- [Backbone.fwd: Forward Events From One Backbone Object, Through Another](http://derickbailey.com/2014/05/13/backbone-fwd-forward-events-from-one-backbone-object-through-another/) by Derick Bailey
 
 ## Books
 
@@ -63,6 +66,7 @@
 - [Wine Cellar Sample Application](https://github.com/ccoenraets/backbone-cellar) - "Backbone Cellar" is a sample application built with Backbone.js
 - [Employee Directory](https://github.com/ccoenraets/directory-backbone-bootstrap) - Employee Directory sample application built with Backbone.js and Twitter Bootstrap
 - [Backbone Contact Manager](https://github.com/dmytroyarmak/backbone-contact-manager) - Simple Backbone.js example application
+- [Backbone Boilerplates](https://github.com/addyosmani/backbone-boilerplates) - Backbone.js stack boilerplates demonstrating integration with Express, Ruby, PHP, Grails and more
 
 ## Courses
 
