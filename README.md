@@ -66,6 +66,7 @@
 - [Beginning Backbone.js](http://www.amazon.com/dp/1430263342/) by James Sugrue
 - [Backbone.js Blueprints](http://www.amazon.com/dp/1783286997/) by Andrew Burgess
 - [Recipes with Backbone](http://recipeswithbackbone.com/) by Nick Gauthier and Chris Strom
+- [Full Stack Web Development with Backbone.js](http://shop.oreilly.com/product/0636920030799.do) by Patrick Mulder
 
 ## Videos
 
