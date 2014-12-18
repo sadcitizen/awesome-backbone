@@ -7,7 +7,7 @@
 - [Backbone.js](http://backbonejs.org/)
 - [Github repository](https://github.com/jashkenas/backbone)
 - [Annotated source](http://backbonejs.org/docs/backbone.html)
-- [Backbone plugins](http://backplug.io/)
+- [Backbone plugins](http://backplug.io/) 
 - [Backbone Index](https://backboneindex.com/) - Discover new Backbone plugins and resources
 - [BackboneConf](http://backboneconf.com/) - Conference about building applications on the web, with a focus on the Backbone.js library
 - [StackOverflow](http://stackoverflow.com/questions/tagged/backbone.js) - Tagged questions
@@ -72,7 +72,8 @@
 
 ## Videos
 
-- [backboneConf 2013](https://www.youtube.com/playlist?list=PLlgxAbM67lYLJm9_Ub3gStXa2vjb51aUX) - Youtube playlist
+- [BackboneConf 2013](https://www.youtube.com/playlist?list=PLlgxAbM67lYLJm9_Ub3gStXa2vjb51aUX) - Youtube playlist
+- [BackboneConf 2014](https://www.youtube.com/playlist?list=PLlgxAbM67lYIGw8DnANC7VgREbzJRQged) - Youtube playlist
 - [Introduction to Backbone.js](https://www.youtube.com/playlist?list=PLCE344BDBD8FAC282) - Youtube playlist by Joseph Zimmerman
 - [Backbone App Walkthrough](https://www.youtube.com/playlist?list=PL0C57F698BD4766B1) - Youtube playlist by Joseph Zimmerman
 - [Backbone.js Tutorial](http://www.youtube.com/playlist?list=PLTjRvDozrdlwn9IsHWEs9IQv3HQob4bH3) - Youtube playlist by Mosh Hamedani
