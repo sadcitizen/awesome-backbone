@@ -8,6 +8,7 @@
 - [Github repository](https://github.com/jashkenas/backbone)
 - [Annotated source](http://backbonejs.org/docs/backbone.html)
 - [Backbone plugins](http://backplug.io/)
+- [Backbone Index](https://backboneindex.com/) - Discover new Backbone plugins and resources
 - [BackboneConf](http://backboneconf.com/) - Conference about building applications on the web, with a focus on the Backbone.js library
 - [StackOverflow](http://stackoverflow.com/questions/tagged/backbone.js) - Tagged questions
 - [Backbone Weekly](http://backboneweekly.com/) - The latest Backbone.js news, tips & code delivered directly to your inbox
