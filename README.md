@@ -56,6 +56,7 @@
 - Backbone.js for Absolute Beginners by Adrian Mejia - [Part 1](http://adrianmejia.com/blog/2012/09/11/backbone-dot-js-for-absolute-beginners-getting-started/), [Part 2](http://adrianmejia.com/blog/2012/09/13/backbone-js-for-absolute-beginners-getting-started-part-2/), [Part 3](http://adrianmejia.com/blog/2012/09/13/backbonejs-for-absolute-beginners-getting-started-part-3/) and [Part 4](http://adrianmejia.com/blog/2012/09/13/backbone-js-for-absolute-beginners-getting-started-part-4/)
 - Building an App with Express and Backbone by Jack Franklin - [Part 1](http://javascriptplayground.com/blog/2013/02/express-backbone-application-part1), [Part 2](http://javascriptplayground.com/blog/2013/02/building-an-app-with-express-and-backbone-part-2), [Part 3](http://javascriptplayground.com/blog/2013/04/building-an-app-with-express-and-backbone-part-3), [Part 4](http://javascriptplayground.com/blog/2013/07/building-an-app-with-express-and-backbone-part-4), [Part 5](http://javascriptplayground.com/blog/2013/08/express-backbone-part5), [Part 6](http://javascriptplayground.com/blog/2013/09/express-backbone-part6), [Part 7](http://javascriptplayground.com/blog/2013/09/express-backbone-part7) and [Part 8](http://javascriptplayground.com/blog/2013/10/express-backbone-part8)
 - [Backbone with ES6](http://mikefowler.me/2014/06/11/backbone-with-es6/) by Mike Fowler
+- [How to share Backbone.js models with Node.js](http://amirmalik.net/2010/11/27/how-to-share-backbonejs-models-with-nodejs)
 
 ## Books
 
@@ -69,6 +70,7 @@
 - [Backbone.js Blueprints](http://www.amazon.com/dp/1783286997/) by Andrew Burgess
 - [Recipes with Backbone](http://recipeswithbackbone.com/) by Nick Gauthier and Chris Strom
 - [Full Stack Web Development with Backbone.js](http://shop.oreilly.com/product/0636920030799.do) by Patrick Mulder
+- [Developing Single Page Apps with Backbone.js](https://singlepagebook.supportbee.com/) by Prateek Dayal - work in progress
 
 ## Videos
 
