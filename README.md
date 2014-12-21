@@ -57,6 +57,7 @@
 - Building an App with Express and Backbone by Jack Franklin - [Part 1](http://javascriptplayground.com/blog/2013/02/express-backbone-application-part1), [Part 2](http://javascriptplayground.com/blog/2013/02/building-an-app-with-express-and-backbone-part-2), [Part 3](http://javascriptplayground.com/blog/2013/04/building-an-app-with-express-and-backbone-part-3), [Part 4](http://javascriptplayground.com/blog/2013/07/building-an-app-with-express-and-backbone-part-4), [Part 5](http://javascriptplayground.com/blog/2013/08/express-backbone-part5), [Part 6](http://javascriptplayground.com/blog/2013/09/express-backbone-part6), [Part 7](http://javascriptplayground.com/blog/2013/09/express-backbone-part7) and [Part 8](http://javascriptplayground.com/blog/2013/10/express-backbone-part8)
 - [Backbone with ES6](http://mikefowler.me/2014/06/11/backbone-with-es6/) by Mike Fowler
 - [How to share Backbone.js models with Node.js](http://amirmalik.net/2010/11/27/how-to-share-backbonejs-models-with-nodejs)
+- [Backbone.js tricks or treats](http://tiagorg.github.io/talk-backbone-tricks-or-treats-html5devconf) by Tiago Garcia
 
 ## Books
 
