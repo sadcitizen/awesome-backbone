@@ -59,6 +59,7 @@
 - [How to share Backbone.js models with Node.js](http://amirmalik.net/2010/11/27/how-to-share-backbonejs-models-with-nodejs)
 - [Backbone.js tricks or treats](http://tiagorg.github.io/talk-backbone-tricks-or-treats-html5devconf) by Tiago Garcia
 - Backbone.js organizational patterns by Ben Eddy - [Part 1](http://www.foraker.com/backbone-js-organizational-patterns/), [Part 2](http://www.foraker.com/backbone-js-organizational-patterns-part-ii/)
+- [Backbone Cleanup](http://www.webdeveasy.com/backbone-cleanup/) by Naor Yehodaey
 
 ## Books
 
