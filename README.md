@@ -60,6 +60,7 @@
 - [Backbone.js tricks or treats](http://tiagorg.github.io/talk-backbone-tricks-or-treats-html5devconf) by Tiago Garcia
 - Backbone.js organizational patterns by Ben Eddy - [Part 1](http://www.foraker.com/backbone-js-organizational-patterns/), [Part 2](http://www.foraker.com/backbone-js-organizational-patterns-part-ii/)
 - [Backbone Cleanup](http://www.webdeveasy.com/backbone-cleanup/) by Naor Yehodaey
+- [Lazy loading Backbone collections with Promises](http://tech.adroll.com/blog/web/2013/11/12/lazyloading-backbone-collection-with-promises.html) by Timothée Boucher 
 
 ## Books
 
