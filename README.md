@@ -7,12 +7,12 @@
 - [Backbone.js](http://backbonejs.org/)
 - [Github repository](https://github.com/jashkenas/backbone)
 - [Annotated source](http://backbonejs.org/docs/backbone.html)
-- [Backbone plugins](http://backplug.io/) 
+- [Backbone plugins](http://backplug.io/)
 - [Backbone Index](https://backboneindex.com/) - Discover new Backbone plugins and resources
 - [BackboneConf](http://backboneconf.com/) - Conference about building applications on the web, with a focus on the Backbone.js library
 - [StackOverflow](http://stackoverflow.com/questions/tagged/backbone.js) - Tagged questions
 - [Backbone Weekly](http://backboneweekly.com/) - The latest Backbone.js news, tips & code delivered directly to your inbox
-- [Yeoman generator for Backbone.js](https://github.com/yeoman/generator-backbone) 
+- [Yeoman generator for Backbone.js](https://github.com/yeoman/generator-backbone)
 
 ## Tutorials and articles
 
@@ -20,9 +20,9 @@
 - [A pragmatic guide to Backbone.js apps](http://pragmatic-backbone.com/) by Julio Cesar Ody
 - Backbone.js Deconstructed by Cody Lindley - [Part 1](http://tech.pro/tutorial/1367/part-1-backbonejs-deconstructed) and [Part 2](http://tech.pro/tutorial/1476/part-2-backbonejs-deconstructed)
 - [Intro to Backbone.js](http://tech.pro/tutorial/1118/intro-to-backbonejs) by Matt Keas
-- [Getting Started with Backbone](http://www.korenlc.com/backbone-js-tutorial-getting-started-with-backbone/) by Koren Leslie Cohen 
+- [Getting Started with Backbone](http://www.korenlc.com/backbone-js-tutorial-getting-started-with-backbone/) by Koren Leslie Cohen
 - [A Complete Guide for Learning Backbone.js](http://www.codebeerstartups.com/2012/12/a-complete-guide-for-learning-backbone-js/) by Mohit Jain
-- [Hello Backbone.js](http://jasongiedymin.github.io/hello-backbonejs/) by Artur Adib 
+- [Hello Backbone.js](http://jasongiedymin.github.io/hello-backbonejs/) by Artur Adib
 - Backbone.js Wine Cellar Tutorial by Christophe Coenraets - [Part 1](http://coenraets.org/blog/2011/12/backbone-js-wine-cellar-tutorial-part-1-getting-started/), [Part 2](http://coenraets.org/blog/2011/12/backbone-js-wine-cellar-tutorial-part-2-crud/) and [Part 3](http://coenraets.org/blog/2011/12/backbone-js-wine-cellar-tutorial-part-3-deep-linking-and-application-states/)
 - [Backbone patterns](http://ricostacruz.com/backbone-patterns/) by Rico Sta. Cruz
 - [Complex Single Page Application Architecture with Backbone.js](http://blog.soom.la/2013/10/complex-single-page-application.html) by Gur Dotan
@@ -60,14 +60,15 @@
 - [Backbone.js tricks or treats](http://tiagorg.github.io/talk-backbone-tricks-or-treats-html5devconf) by Tiago Garcia
 - Backbone.js organizational patterns by Ben Eddy - [Part 1](http://www.foraker.com/backbone-js-organizational-patterns/), [Part 2](http://www.foraker.com/backbone-js-organizational-patterns-part-ii/)
 - [Backbone Cleanup](http://www.webdeveasy.com/backbone-cleanup/) by Naor Yehodaey
-- [Lazy loading Backbone collections with Promises](http://tech.adroll.com/blog/web/2013/11/12/lazyloading-backbone-collection-with-promises.html) by Timothée Boucher 
+- [Lazy loading Backbone collections with Promises](http://tech.adroll.com/blog/web/2013/11/12/lazyloading-backbone-collection-with-promises.html) by Timothée Boucher
+- [5 Ways to Level-Up Your Backbone.js Code](https://blog.engineyard.com/2015/5-ways-to-level-up-your-backbone-code) by David Aragon
 
 ## Books
 
 - [Developing Backbone.js Applications](http://addyosmani.github.io/backbone-fundamentals/) by Addy Osmani
 - [Building Backbone Plugins](https://leanpub.com/building-backbone-plugins) by Derick Bailey and Jerome Gravel-Niquet
 - [Backbone.js Testing](http://backbone-testing.com/) by Ryan Roemer
-- [Backbone.js Patterns and Best Practices](http://www.amazon.com/dp/1783283572) by Swarnendu De 
+- [Backbone.js Patterns and Best Practices](http://www.amazon.com/dp/1783283572) by Swarnendu De
 - [Backbone.js Cookbook](http://www.amazon.com/dp/1782162720/) by Vadim Mirgorod
 - [Instant Backbone.js Application Development](http://www.amazon.com/dp/1782165665) by Thomas Hunter II
 - [Beginning Backbone.js](http://www.amazon.com/dp/1430263342/) by James Sugrue
