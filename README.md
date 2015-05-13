@@ -63,6 +63,7 @@
 - [Lazy loading Backbone collections with Promises](http://tech.adroll.com/blog/web/2013/11/12/lazyloading-backbone-collection-with-promises.html) by Timothée Boucher
 - [5 Ways to Level-Up Your Backbone.js Code](https://blog.engineyard.com/2015/5-ways-to-level-up-your-backbone-code) by David Aragon
 - [Why Backbone.js and ES6 Classes Don't Mix](http://benmccormick.org/2015/04/07/es6-classes-and-backbone-js/) by Ben McCormick
+- [Top 8 Common Backbone.js Developer Mistakes](http://www.toptal.com/backbone-js/top-8-common-backbone-js-developer-mistakes) by Mahmud Ridwan
 
 ## Books
 
