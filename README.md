@@ -65,6 +65,7 @@
 - [Why Backbone.js and ES6 Classes Don't Mix](http://benmccormick.org/2015/04/07/es6-classes-and-backbone-js/) by Ben McCormick
 - [Top 8 Common Backbone.js Developer Mistakes](http://www.toptal.com/backbone-js/top-8-common-backbone-js-developer-mistakes) by Mahmud Ridwan
 - [8 Great Backbone.js Interview Questions](http://www.toptal.com/backbone-js/interview-questions)
+- [Integrating React With Backbone](https://quickleft.com/blog/integrating-react-with-backbone/) by Ben Lewis
 
 ## Books
 
