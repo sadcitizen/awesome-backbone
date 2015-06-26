@@ -66,6 +66,8 @@
 - [Top 8 Common Backbone.js Developer Mistakes](http://www.toptal.com/backbone-js/top-8-common-backbone-js-developer-mistakes) by Mahmud Ridwan
 - [8 Great Backbone.js Interview Questions](http://www.toptal.com/backbone-js/interview-questions)
 - [Integrating React With Backbone](https://quickleft.com/blog/integrating-react-with-backbone/) by Ben Lewis
+- [Using BackboneJS to improve your JavaScript code organization over a Ruby on Rails app](https://medium.com/@ezekielriva/using-backbonejs-to-improve-your-javascript-code-organization-over-a-ruby-on-rails-app-11784575a4f2) by Ezequiel Rivadeneira Lichardi
+- JavaScript For The Impatient: BackboneJS - [Part 1](https://medium.com/@coreyhowell/javascript-for-the-impatient-backbonejs-part-1-7f4dba8fcea), [Part 2](https://medium.com/@coreyhowell/javascript-for-the-impatient-backbonejs-part-2-a139df9bbbf0) by Corey Howell
 
 ## Books
 
