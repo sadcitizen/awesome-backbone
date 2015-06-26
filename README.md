@@ -68,6 +68,7 @@
 - [Integrating React With Backbone](https://quickleft.com/blog/integrating-react-with-backbone/) by Ben Lewis
 - [Using BackboneJS to improve your JavaScript code organization over a Ruby on Rails app](https://medium.com/@ezekielriva/using-backbonejs-to-improve-your-javascript-code-organization-over-a-ruby-on-rails-app-11784575a4f2) by Ezequiel Rivadeneira Lichardi
 - JavaScript For The Impatient: BackboneJS - [Part 1](https://medium.com/@coreyhowell/javascript-for-the-impatient-backbonejs-part-1-7f4dba8fcea), [Part 2](https://medium.com/@coreyhowell/javascript-for-the-impatient-backbonejs-part-2-a139df9bbbf0) by Corey Howell
+- [Building Backbone apps using Flux](https://medium.com/@victordoss/building-backbone-apps-using-flux-f656fd8a873a) by Victor Doss
 
 ## Books
 
