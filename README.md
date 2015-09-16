@@ -18,8 +18,6 @@
 
 - [Backbone.js tutorials](http://backbonetutorials.com/)
 - [A pragmatic guide to Backbone.js apps](http://pragmatic-backbone.com/) by Julio Cesar Ody
-- Backbone.js Deconstructed by Cody Lindley - [Part 1](http://tech.pro/tutorial/1367/part-1-backbonejs-deconstructed) and [Part 2](http://tech.pro/tutorial/1476/part-2-backbonejs-deconstructed)
-- [Intro to Backbone.js](http://tech.pro/tutorial/1118/intro-to-backbonejs) by Matt Keas
 - [Getting Started with Backbone](http://www.korenlc.com/backbone-js-tutorial-getting-started-with-backbone/) by Koren Leslie Cohen
 - [A Complete Guide for Learning Backbone.js](http://www.codebeerstartups.com/2012/12/a-complete-guide-for-learning-backbone-js/) by Mohit Jain
 - [Hello Backbone.js](http://jasongiedymin.github.io/hello-backbonejs/) by Artur Adib
