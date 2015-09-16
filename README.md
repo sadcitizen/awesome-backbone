@@ -29,8 +29,6 @@
 - CloudEdit: A Backbone.js Tutorial with Rails by James Yu - [Part 1](http://www.jamesyu.org/2011/01/27/cloudedit-a-backbone-js-tutorial-by-example), [Part 2](http://www.jamesyu.org/2011/02/09/backbone.js-tutorial-with-rails-part-2) and [Part 3](http://www.jamesyu.org/2012/05/20/converting-cloudedit-from-backbone-to-parse/)
 - [Our First Node.js App: Backbone on the Client and Server](http://nerds.airbnb.com/weve-launched-our-first-nodejs-app-to-product/) by Spike Brehm
 - [Using Backbone.js With Require.js](http://gregfranko.com/blog/using-backbone-dot-js-with-require-dot-js/) by Greg Franko
-- [Backbone.js & Inheritance](http://www.erichynds.com/blog/backbone-and-inheritance) by Eric Hynds
-- [Rendering A Filtered Backbone.Collection](http://tech.pro/tutorial/1519/rendering-a-filtered-backbonecollection) by Derick Bailey
 - [Backbone Model Unit Testing with Jasmine](http://blog.katworksgames.com/2013/03/30/bb_model_test_jasmine/) by Ken Tabor
 - [Backbone.js and Socket.io](http://developer.teradata.com/blog/jasonstrimpel/2011/11/backbone-js-and-socket-io) by Jason Strimpel
 - [Presenter First in Backbone.js](http://spin.atomicobject.com/2012/01/03/presenter-first-in-backbone-js/) by Shawn Andersom
