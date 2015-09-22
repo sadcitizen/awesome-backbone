@@ -11,7 +11,6 @@
 - [Backbone Index](https://backboneindex.com/) - Discover new Backbone plugins and resources
 - [BackboneConf](http://backboneconf.com/) - Conference about building applications on the web, with a focus on the Backbone.js library
 - [StackOverflow](http://stackoverflow.com/questions/tagged/backbone.js) - Tagged questions
-- [Backbone Weekly](http://backboneweekly.com/) - The latest Backbone.js news, tips & code delivered directly to your inbox
 - [Yeoman generator for Backbone.js](https://github.com/yeoman/generator-backbone)
 
 ## Tutorials and articles
