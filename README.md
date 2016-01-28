@@ -72,6 +72,7 @@
 - [Developing Backbone.js Applications](http://addyosmani.github.io/backbone-fundamentals/) by Addy Osmani
 - [Backbone Tutorials](https://leanpub.com/backbonetutorials) by Thomas Davis
 - [Building Backbone Plugins](https://leanpub.com/building-backbone-plugins) by Derick Bailey and Jerome Gravel-Niquet
+- [Mastering Backbone.js](http://www.amazon.com/dp/1783288493) by Abiee Echamea
 - [Backbone.js Testing](http://backbone-testing.com/) by Ryan Roemer
 - [Backbone.js Patterns and Best Practices](http://www.amazon.com/dp/1783283572) by Swarnendu De
 - [Backbone.js Cookbook](http://www.amazon.com/dp/1782162720/) by Vadim Mirgorod
