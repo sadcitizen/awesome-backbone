@@ -117,3 +117,20 @@
 - [Up and Running with Backbone.js](http://www.lynda.com/Backbonejs-tutorials/Up-Running-Backbonejs/163089-2.html)
 - [Application Building Patterns with Backbone.js](http://www.pluralsight.com/courses/playing-with-backbonejs)
 - [Backbone.js Fundamentals](http://www.pluralsight.com/courses/backbone-fundamentals)
+
+## Libraries
+
+- [Backbone.Relational](https://github.com/PaulUithol/Backbone-relational)
+- [Backbone-forms](https://github.com/powmedia/backbone-forms)
+- [Backgrid.js](https://github.com/wyuenho/backgrid)
+- [Backbone.localStorage](https://github.com/jeromegn/Backbone.localStorage)
+- [Backbone.stickit](https://github.com/NYTimes/backbone.stickit)
+- [Backbone.paginator](https://github.com/backbone-paginator/backbone.paginator)
+- [Backbone.validation](https://github.com/thedersen/backbone.validation)
+- [Exoskeleton](https://github.com/paulmillr/exoskeleton)
+- [Backbone.dualstorage](https://github.com/nilbus/Backbone.dualStorage)
+- [Backbone.iobind](https://github.com/noveogroup/backbone.iobind)
+- [Backbone-associations](https://github.com/dhruvaray/backbone-associations)
+- [Backbone-tastypie](https://github.com/PaulUithol/backbone-tastypie)
+- [Backbone.Radio](https://github.com/marionettejs/backbone.radio)
+- [Backbone.BabySitter](https://github.com/marionettejs/backbone.babysitter)
