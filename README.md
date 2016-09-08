@@ -15,7 +15,6 @@
 
 ## Tutorials and articles
 
-- [Backbone.js tutorials](http://backbonetutorials.com/)
 - [A pragmatic guide to Backbone.js apps](http://pragmatic-backbone.com/) by Julio Cesar Ody
 - [Getting Started with Backbone](http://www.korenlc.com/backbone-js-tutorial-getting-started-with-backbone/) by Koren Leslie Cohen
 - [A Complete Guide for Learning Backbone.js](http://www.codebeerstartups.com/2012/12/a-complete-guide-for-learning-backbone-js/) by Mohit Jain
