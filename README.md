@@ -12,6 +12,7 @@
 - [BackboneConf](http://backboneconf.com/) - Conference about building applications on the web, with a focus on the Backbone.js library
 - [StackOverflow](http://stackoverflow.com/questions/tagged/backbone.js) - Tagged questions
 - [Yeoman generator for Backbone.js](https://github.com/yeoman/generator-backbone)
+- [Programming Community Curated Resources for Learning Backbone.js](https://hackr.io/tutorials/learn-backbone-js)
 
 ## Tutorials and articles
 
